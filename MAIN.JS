@@ -1,0 +1,1 @@
+console.log("Nickolaz Juand Podandi / 3257")
